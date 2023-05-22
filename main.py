@@ -50,7 +50,7 @@ def sendMemes(memes):
 
         quit()
 
-    client.run('MTEwOTg1MTEzNjQ0NzUwMDM2OA.G13-cJ.HDXAiZ3XNLbgiOLyWCFwbFLKpu33A7b16WVia4')
+    client.run('MIEMIE_DCLIENT_SECRET')
     return
 
 def main():
